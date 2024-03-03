@@ -1,0 +1,7 @@
+com\oussamamicro\fraud\entity\FraudCheckHistory$FraudCheckHistoryBuilder.class
+com\oussamamicro\fraud\repositry\FraudCheckHistoryRepository.class
+com\oussamamicro\fraud\response\FraudCheckResponse.class
+com\oussamamicro\fraud\FraudApplication.class
+com\oussamamicro\fraud\service\FraudCheckService.class
+com\oussamamicro\fraud\controller\FraudController.class
+com\oussamamicro\fraud\entity\FraudCheckHistory.class

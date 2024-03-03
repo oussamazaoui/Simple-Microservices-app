@@ -1,0 +1,8 @@
+com\oussamamicro\customer\request\CustomerRegistrationRequest.class
+com\oussamamicro\customer\controller\CustomerController.class
+com\oussamamicro\customer\entity\Customer.class
+com\oussamamicro\customer\service\CustomerService.class
+com\oussamamicro\customer\CustomerApplication.class
+com\oussamamicro\customer\entity\Customer$CustomerBuilder.class
+com\oussamamicro\customer\repositry\CustomerRepository.class
+com\oussamamicro\customer\CustomerConfig.class

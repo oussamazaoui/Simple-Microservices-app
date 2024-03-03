@@ -1,0 +1,8 @@
+C:\Users\oussa\OneDrive\Bureau\oussama\notification\src\main\java\com\oussamamicro\notification\NotificationApplication.java
+C:\Users\oussa\OneDrive\Bureau\oussama\notification\src\main\java\com\oussamamicro\notification\service\NotificationService.java
+C:\Users\oussa\OneDrive\Bureau\oussama\notification\src\main\java\com\oussamamicro\notification\controller\NotificationController.java
+C:\Users\oussa\OneDrive\Bureau\oussama\notification\src\main\java\com\oussamamicro\notification\repositry\NotificationRepository.java
+C:\Users\oussa\OneDrive\Bureau\oussama\notification\src\main\java\com\oussamamicro\notification\request\NotificationRequest.java
+C:\Users\oussa\OneDrive\Bureau\oussama\notification\src\main\java\com\oussamamicro\notification\RabbitMq\NotificationConsumer.java
+C:\Users\oussa\OneDrive\Bureau\oussama\notification\src\main\java\com\oussamamicro\notification\config\NotificationConfig.java
+C:\Users\oussa\OneDrive\Bureau\oussama\notification\src\main\java\com\oussamamicro\notification\entity\Notification.java

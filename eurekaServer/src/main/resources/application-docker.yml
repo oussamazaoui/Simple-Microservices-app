@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: eureka-server
+  zipkin:
+    base-url: http://zipkin:9411
+  cloud:
+    compatibility-verifier:
+      enabled: false
+  sleuth:
+    sampler:
+      probability: 1.0
+server:
+  port: 8761
+
+
+
+eureka:
+  client:
+    fetch-registry: false
+    register-with-eureka: false

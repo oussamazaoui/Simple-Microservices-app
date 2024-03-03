@@ -1,0 +1,10 @@
+com\oussamamicro\notification\repositry\NotificationRepository.class
+com\oussamamicro\notification\request\NotificationRequest$NotificationRequestBuilder.class
+com\oussamamicro\notification\config\NotificationConfig.class
+com\oussamamicro\notification\RabbitMq\NotificationConsumer.class
+com\oussamamicro\notification\NotificationApplication.class
+com\oussamamicro\notification\service\NotificationService.class
+com\oussamamicro\notification\entity\Notification.class
+com\oussamamicro\notification\request\NotificationRequest.class
+com\oussamamicro\notification\entity\Notification$NotificationBuilder.class
+com\oussamamicro\notification\controller\NotificationController.class
