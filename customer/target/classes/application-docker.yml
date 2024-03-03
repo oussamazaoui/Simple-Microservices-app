@@ -1,4 +1,5 @@
-
+server:
+  port: 8082
 spring:
   application:
     name: customer
@@ -11,8 +12,8 @@ spring:
 
   datasource:
     password: 1234567890
-    url: jdbc:postgresql://postgres:5433/postgres
-    username: postgres
+    url: jdbc:postgresql://postgres:5432/test
+    username: oussama
   jpa:
     hibernate:
       ddl-auto: create-drop
@@ -21,12 +22,12 @@ spring:
         dialect: org.hibernate.dialect.PostgreSQLDialect
         format_sql: true
     show-sql: true
-server:
-  port: 8082
   zipkin:
     base-url: http://zipkin:9411
   rabbitmq:
     addresses: rabbitmq:5672
+
+
 eureka:
   client:
     service-url:

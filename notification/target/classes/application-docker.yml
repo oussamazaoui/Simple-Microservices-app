@@ -5,8 +5,8 @@ spring:
     base-url: http://zipkin:9411
   datasource:
     password: 1234567890
-    url: jdbc:postgresql://postgres:5433/postgres
-    username: postgres
+    url: jdbc:postgresql://postgres:5432/test
+    username: oussama
   jpa:
     hibernate:
       ddl-auto: create-drop

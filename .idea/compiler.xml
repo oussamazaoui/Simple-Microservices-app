@@ -8,7 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="eurekaserver" />
-        <module name="apiGateway" />
+        <module name="apigateway" />
         <module name="notification" />
         <module name="amq" />
         <module name="fraud" />
@@ -16,6 +16,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="apiGateway" target="17" />
       <module name="eurekaServer" target="17" />
     </bytecodeTargetLevel>
   </component>

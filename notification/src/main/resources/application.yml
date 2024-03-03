@@ -5,8 +5,8 @@ spring:
     base-url: http://localhost:9411
   datasource:
     password: 1234567890
-    url: jdbc:postgresql://localhost:5433/postgres
-    username: postgres
+    url: jdbc:postgresql://localhost:5433/test
+    username: oussama
   jpa:
     hibernate:
       ddl-auto: create-drop

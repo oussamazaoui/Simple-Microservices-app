@@ -3,11 +3,11 @@ services:
     container_name: postgres
     image: postgres
     environment:
-      POSTGRES_USER: postgres
+      POSTGRES_USER: oussama
       POSTGRES_PASSWORD: 1234567890
-      POSTGRES_DB: postgres
+      POSTGRES_DB: test
     ports:
-      - "5433:5432"
+      - "5432:5432"
     networks:
       - postgres
     restart: unless-stopped
